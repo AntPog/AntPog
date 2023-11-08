@@ -2,7 +2,7 @@
 - I'm Antonina, currently a computer science student at Collegium Da Vinci in Poznań. My aspirations lay in becoming a back-end developer as it's an old dream of mine. My main interests are application development and data base managing.
 - Currently, I'm working on expanding my technical skills via university - and my own - projects.
 
-- My resume: [here](Resume.pdf)
+- My resume: [here](/Resume.pdf)
 - Ny Linkendin: [here](https://www.linkedin.com/in/antonina-pogorzelczyk/ "linkendin")
 
 
